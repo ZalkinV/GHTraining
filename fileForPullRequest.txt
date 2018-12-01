@@ -1,13 +1,16 @@
 include <iostream>
+include <string>
+
 using namespace std;
 
 int main()
 {
-	PrintHello();
+	string str = "Hello World"
+	Print(str);
 	return 0;
 }
 
-void PrintHello()
+void Print(const &string line)
 {
-	cout << "Hello World" << endl;
+	cout << line << endl;
 }
