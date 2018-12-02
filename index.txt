@@ -3,3 +3,5 @@ New line through GitHub
 Saltowl:
 Hello, Victor. How R u?
 I write it through GitHub too.
+Viktor:
+Issue #5 solving
